@@ -1,4 +1,4 @@
-/Users/extentia/Desktop/TestGitRepo/TestGit/bin/MainActivity.ap_ \
+/Users/extentia/Desktop/TestGitRepo/TestGit/bin/TEST_GIT.ap_ \
  : /Users/extentia/Desktop/TestGitRepo/TestGit/res/drawable-hdpi/ic_launcher.png \
 /Users/extentia/Desktop/TestGitRepo/TestGit/res/drawable-mdpi/ic_launcher.png \
 /Users/extentia/Desktop/TestGitRepo/TestGit/res/drawable-xhdpi/ic_launcher.png \
